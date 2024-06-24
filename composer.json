@@ -1,0 +1,16 @@
+{
+    "name": "app/hello",
+    "description": "wild composer quest",
+    "autoload": {
+        "psr-4": {
+            "App\\Hello\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thurzas",
+            "email": "mathieu.miot@gmail.com"
+        }
+    ],
+    "require": {}
+}
