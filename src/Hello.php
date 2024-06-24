@@ -1,5 +1,5 @@
 <?php 
-    namespace App\Hello;
+    namespace App;
     class Hello
     {
         function talk() :string
